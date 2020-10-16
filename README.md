@@ -11,7 +11,7 @@
 <br />
 <br />
 
-[![Discord](https://cdn.discordapp.com/attachments/704878178992128001/766676322540847134/TEST.png)](https://discord.gg/zmVT5pE)
+[![Discord](https://cdn.discordapp.com/attachments/760319272333082695/766683920522805278/Reborn.png)](https://discord.gg/zmVT5pE)
 
 <br />
 
