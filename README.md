@@ -11,7 +11,7 @@
 <br />
 <br />
 
-[![Discord](https://cdn.discordapp.com/attachments/760319272333082695/766683920522805278/Reborn.png)](https://discord.gg/zmVT5pE)
+[![Discord](https://cdn.discordapp.com/attachments/758846588247867402/829759780004036628/mrcosti-logo.png)](https://dsc.gg/costi)
 
 <br />
 
@@ -42,8 +42,8 @@
 <img align="left" alt="MrCosti:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCosti" />
 
 
-[website]: https://reborncad.com/
-[twitter]: https://twitter.com/mr_costi
+[website]: https://mrcosti.com/
+[twitter]: https://twitter.com/mr_costi_real
 [twitch]: https://twitch.tv/mrcosti
 [youtube]: https://youtube.com/c/MrCosti
-[discord]: https://discord.gg/zmVT5pE
+[discord]: https://dsc.gg/costi
